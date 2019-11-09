@@ -1,12 +1,12 @@
 <p align="center"><img src="data/rankup.png"></p>
 
+**MSC Rewind Hackathon @ MSFT** - Redmond, WA - November 8-9, 2019
+
 ### Motivation
 Military spouses often have to sacrifice long-term career goals in their support of their family and partners in the military. According to the Rand Corporation they are typically underemployed and underpaid much more than their civilian counterparts.
 
 ### Our Project
 Using the latest Natural Language Proessing (NLP) machine learning techniques, we curate personalized lists of jobs for military spouses that are ranked by analyzing their resume. Furthermore, we offer recommendations for education resources and a "path of least resistance" to pivot one's career and maximize salary gain.
-
-**MSC Rewind Hackathon @ MSFT** - Redmond, WA - November 8-9, 2019
 
 ### Team
 * Abhi Banerjee
@@ -14,22 +14,23 @@ Using the latest Natural Language Proessing (NLP) machine learning techniques, w
 * Chris Ihler
 
 ### Links
-- Presentation Slides: 
+- Presentation Slides: http://bit.ly/2K5rYbw
 - GitHub: https://github.com/drunkONdata/RankUp.vet
 
 ### Unique Features
-* 
-* 
-* 
-* Selenium Web Scraper for Job Descriptions, Syllabi of education programs
+* Scrapes web of salary, syllabi, job descriptions & most marketable jobs for destination city
+* Identify opportunities for career changes based on current skills with NLP + DL
+* Provisional Patent submitted to USPTO for recommendation engine - Nov 8th 2019
 * Resume Text Sentiment Classifer using Bidirectional RNN via Keras + Tensorflow
 
 ### Future Work
-* Expand to veterans looking to rejoin the civilian workforce
-* Expand recommendations for education resources to bridge skills gap for career pivots & greatest salary gain
+* Expand to veterans looking to rejoin the workforce & civilians 
+* Expand training dataset repository for ML/DL model training
 * Model hyperparameter improvements for better ranked matches
-* Add LinkedIn profile data for better comparisons
-* Use Machine Learning to decode military jargon for most similar civilian keywords
+* Utilize ML to decode & translate military jargon to civilian keywords
+* Train CNN for resume “attractiveness” score for passing initial resume screen
+* Expand offerings for scholarship & grant recommendations
+* Apply to Techstars Seattle 2020
 
 ### MIT License
 Copyright (c) 2019 RankUp.vet
