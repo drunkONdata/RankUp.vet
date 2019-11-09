@@ -6,6 +6,21 @@ Military spouses often have to sacrifice long-term career goals in their support
 ### Our Project
 Using the latest Natural Language Proessing (NLP) machine learning techniques, we curate personalized lists of jobs for military spouses that are ranked by analyzing their resume. Furthermore, we offer recommendations for education resources and a "path of least resistance" to pivot one's career and maximize salary gain.
 
+**MSC Rewind Hackathon @ MSFT ** - Redmond, WA - November 8-9, 2019
+
+![RankUp](data/rankup_demo.gif)
+
+### Links
+- Presentation Slides: 
+- GitHub: https://github.com/drunkONdata/RankUp.vet
+
+### Future Work
+* Expand to veterans looking to rejoin the civilian workforce
+* Expand recommendations for education resources to bridge skills gap for career pivots & greatest salary gain
+* Model hyperparameter improvements for better ranked matches
+* Add LinkedIn profile data for better comparisons
+* Use Machine Learning to decode military jargon for most similar civilian keywords
+
 ### MIT License
 Copyright (c) 2019 RankUp.vet
 
