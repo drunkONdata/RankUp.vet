@@ -1,6 +1,6 @@
-<p align="center"><img src="data/rankup.png"></p>
+<p align="center"><img src="data/rankup.png">
 
-**MSC Rewind Hackathon @ MSFT** - Redmond, WA - November 8-9, 2019
+**MSC Rewind Hackathon @ MSFT** - Redmond, WA - November 8-9, 2019</p>
 
 ### Motivation
 Military spouses often have to sacrifice long-term career goals in their support of their family and partners in the military. According to the Rand Corporation they are typically underemployed and underpaid much more than their civilian counterparts.
