@@ -1,9 +1,9 @@
 <p align="center"><img src="data/rankup.png"></p>
 
-###Motivation
+### Motivation
 Military spouses often have to sacrifice long-term career goals in their support of their family and partners in the military. According to the Rand Corporation they are typically underemployed and underpaid much more than their civilian counterparts.
 
-###Our Project
+### Our Project
 Using the latest Natural Language Proessing (NLP) machine learning techniques, we curate personalized lists of jobs for military spouses that are ranked by analyzing their resume. Furthermore, we offer recommendations for education resources and a "path of least resistance" to pivot one's career and maximize salary gain.
 
 ### MIT License
