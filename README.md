@@ -6,9 +6,9 @@ Military spouses often have to sacrifice long-term career goals in their support
 ### Our Project
 Using the latest Natural Language Proessing (NLP) machine learning techniques, we curate personalized lists of jobs for military spouses that are ranked by analyzing their resume. Furthermore, we offer recommendations for education resources and a "path of least resistance" to pivot one's career and maximize salary gain.
 
-** MSC Rewind Hackathon @ MSFT ** - Redmond, WA - November 8-9, 2019
+**MSC Rewind Hackathon @ MSFT** - Redmond, WA - November 8-9, 2019
 
-#### Team
+### Team
 * Abhi Banerjee
 * Anna Meeks
 * Chris Ihler
