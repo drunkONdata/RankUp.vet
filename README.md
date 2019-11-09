@@ -18,6 +18,7 @@ Using the latest Natural Language Processing (NLP) & deep learning machine learn
 ### Links
 - Presentation Slides: http://bit.ly/2K5rYbw
 - GitHub: https://github.com/drunkONdata/RankUp.vet
+- RAND Military Spouse Study: https://www.rand.org/content/dam/rand/pubs/monographs/2010/RAND_MG918.pdf
 
 ### Unique Features
 * Scrapes web of salary, syllabi, job descriptions & most marketable jobs for destination city
