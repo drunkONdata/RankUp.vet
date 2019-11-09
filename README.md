@@ -1,7 +1,7 @@
 <p align="center"><img src="data/rankup.png"></p>
 
 <p align="center">
-**MSC Rewind Hackathon @ MSFT** - Redmond, WA - November 8-9, 2019
+  <b>MSC Rewind Hackathon @ MSFT</b> - Redmond, WA - November 8-9, 2019
 </p>
 
 ### Motivation
