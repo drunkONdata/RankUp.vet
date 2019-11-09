@@ -17,6 +17,13 @@ Using the latest Natural Language Proessing (NLP) machine learning techniques, w
 - Presentation Slides: 
 - GitHub: https://github.com/drunkONdata/RankUp.vet
 
+### Unique Features
+* 
+* 
+* 
+* Selenium Web Scraper for Job Descriptions, Syllabi of education programs
+* Resume Text Sentiment Classifer using Bidirectional RNN via Keras + Tensorflow
+
 ### Future Work
 * Expand to veterans looking to rejoin the civilian workforce
 * Expand recommendations for education resources to bridge skills gap for career pivots & greatest salary gain
